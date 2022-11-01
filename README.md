@@ -10,7 +10,7 @@ Uses lookup tables to reduce number of transaction
 npm install
 ```
 
-2. create .enc file with your priv key, rpc
+2. create .env file with your priv key, rpc
 
 3. run the file
 ```sh
