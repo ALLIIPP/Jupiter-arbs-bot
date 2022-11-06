@@ -13,7 +13,7 @@ successful swaps saved in swaps.json
 lut addresses and accounts in lut saved in somestuff.json
 
 inspired by Jarett Dunn @STACCoverflow
-======
+
 
 ## How to use?
 1. Install dependencies
